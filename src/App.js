@@ -8,6 +8,7 @@ function App() {
   let showEmail = true
   return (
     <div className='card'>
+      <h2>Карточка пользователя</h2>
       <div>
         <img src='https://reqres.in/img/faces/1-image.jpg' alt='' />
       </div>
